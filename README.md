@@ -87,7 +87,7 @@
 - **[Nansen](https://www.nansen.ai/)** - Provides insights and analytics on Ethereum transactions and DeFi activity.
 - **[Zapper](https://zapper.fi/)** - A dashboard for tracking DeFi assets and yield farming positions.
 - **[DeBank](https://debank.com/)** - An analytics tool for managing DeFi portfolios.
-- **[Deep Blue Alpha](https://deepbluealpha.io)** - A free real-time Ethereum whale-tracking dashboard monitoring 15,331+ labeled wallets with sentiment scoring and a 30-day conviction scoreboard.
+- **[Deep Blue Alpha](https://deepbluealpha.io/)** - Real-time Ethereum whale wallet tracker — monitors 10,000+ wallets block-by-block, showing net buy/sell flow per token across 1H/24H/7D windows. Free, no signup.
 
 ## Layer 2 Solutions
 
